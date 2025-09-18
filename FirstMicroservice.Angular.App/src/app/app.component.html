@@ -1,0 +1,35 @@
+<h1>First Microservice Frontend</h1>
+
+<hr>
+<h2>Todo</h2>
+<div>
+  <span>Work</span>
+  <input [(ngModel)]="work" type="text">
+  <button (click)="saveTodo()">Save Todo</button>
+</div>
+
+<hr>
+<div>
+  <ul>
+    @for (data of todos; track data.id) {
+      <li>{{data.work}}</li>
+    }
+  </ul>
+</div>
+
+<hr>
+<h2>Category</h2>
+<div>
+  <span>Name</span>
+  <input [(ngModel)]="name" type="text">
+  <button (click)="saveCategory()">Save Category</button>
+</div>
+
+<hr>
+<div>
+  <ul>
+    @for (data of categories; track data.id) {
+      <li>{{data.name}}</li>
+    }
+  </ul>
+</div>

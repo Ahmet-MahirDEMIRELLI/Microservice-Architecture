@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AhmetMahirDemirelli\\Desktop\\Ders\\Courses\\Udemy\\Microservice Architecture\\MiniETicaret\\MiniETicaret.Gateway.YARP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4891DE-4B17-494D-A5B5-A407186CF769}|MiniETicaret.Gateway.YARP.csproj|c:\\users\\ahmetmahirdemirelli\\desktop\\ders\\courses\\udemy\\microservice architecture\\minieticaret\\minieticaret.gateway.yarp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A4891DE-4B17-494D-A5B5-A407186CF769}|MiniETicaret.Gateway.YARP.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AhmetMahirDemirelli\\Desktop\\Ders\\Courses\\Udemy\\Microservice Architecture\\MiniETicaret\\MiniETicaret.Gateway.YARP\\Migrations\\20250916144202_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250916144202_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\AhmetMahirDemirelli\\Desktop\\Ders\\Courses\\Udemy\\Microservice Architecture\\MiniETicaret\\MiniETicaret.Gateway.YARP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\AhmetMahirDemirelli\\Desktop\\Ders\\Courses\\Udemy\\Microservice Architecture\\MiniETicaret\\MiniETicaret.Gateway.YARP\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T14:42:17.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250916144202_mg1.cs",
+              "DocumentMoniker": "C:\\Users\\AhmetMahirDemirelli\\Desktop\\Ders\\Courses\\Udemy\\Microservice Architecture\\MiniETicaret\\MiniETicaret.Gateway.YARP\\Migrations\\20250916144202_mg1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250916144202_mg1.cs",
+              "ToolTip": "C:\\Users\\AhmetMahirDemirelli\\Desktop\\Ders\\Courses\\Udemy\\Microservice Architecture\\MiniETicaret\\MiniETicaret.Gateway.YARP\\Migrations\\20250916144202_mg1.cs",
+              "RelativeToolTip": "Migrations\\20250916144202_mg1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:42:03.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
